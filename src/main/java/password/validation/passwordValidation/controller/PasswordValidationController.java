@@ -19,4 +19,5 @@ public class PasswordValidationController {
 
         return this.passwordValidationService.validationPassword(password);
     }
+
 }
