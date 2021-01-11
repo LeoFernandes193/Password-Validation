@@ -7,7 +7,7 @@ import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class PasswordValidationApplication {
+	public class PasswordValidationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PasswordValidationApplication.class, args);

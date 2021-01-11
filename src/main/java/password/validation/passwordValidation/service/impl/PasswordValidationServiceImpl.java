@@ -14,7 +14,7 @@ public class PasswordValidationServiceImpl implements PasswordValidationService 
 
     private Matcher matcher;
 
-    public static final String VALID_CHARACTERS = "^(?:([A-Za-z0-9@#$%!])(?!.*\\1)){9,}$";
+    public static final String VALID_CHARACTERS = "^(?:([A-Za-z0-9!@#$%^&*()\\-+])(?!.*\\1)){9,}$";
 
     public PasswordValidationServiceImpl() {
         this.pattern = Pattern.compile(VALID_CHARACTERS);
