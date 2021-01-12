@@ -1,4 +1,4 @@
-package password.validation.passwordValidation;
+package password.validation.passwordvalidation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

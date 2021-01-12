@@ -1,11 +1,11 @@
-package password.validation.passwordValidation.controller;
+package password.validation.passwordvalidation.controller;
 
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import password.validation.passwordValidation.service.impl.PasswordValidationServiceImpl;
+import password.validation.passwordvalidation.service.impl.PasswordValidationServiceImpl;
 
 /**
  * Controller class for method to password validation

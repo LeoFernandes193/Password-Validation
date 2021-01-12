@@ -1,4 +1,4 @@
-package password.validation.passwordValidation.service;
+package password.validation.passwordvalidation.service;
 
 public interface PasswordValidationService {
     /**

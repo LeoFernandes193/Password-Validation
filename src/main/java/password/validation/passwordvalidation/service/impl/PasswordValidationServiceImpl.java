@@ -1,7 +1,7 @@
-package password.validation.passwordValidation.service.impl;
+package password.validation.passwordvalidation.service.impl;
 
 import org.springframework.stereotype.Service;
-import password.validation.passwordValidation.service.PasswordValidationService;
+import password.validation.passwordvalidation.service.PasswordValidationService;
 
 import java.util.Optional;
 import java.util.regex.Matcher;
