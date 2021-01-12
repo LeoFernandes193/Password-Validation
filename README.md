@@ -3,14 +3,14 @@
 
 ## Indice:
 - [Sobre](#-sobre)
-- [Criterios de validação](#-Criterios-de-validação)
-- [Técnologias usadas](#-Técnologias-usadas)
-- [Pré-Requisitos](#-Pré-Requisitos)
-- [Classes de serviços principais](Classes-de-serviços-principais)
-- [Classes de teste unitário](Classes-de-teste-unitário)
-- [Como baixar o projeto](Como-baixar-o-projeto)
-- [Como iniciar o serviço](Como-iniciar-o-serviço)
-- [Como realizar chamadas no serviço](Como-realizar-chamadas-no-serviço)
+- [Criterios de validação](#-criterios-de-validacao)
+- [Técnologias usadas](#-tecnologias-usadas)
+- [Pré-Requisitos](#-pre-Requisitos)
+- [Classes de serviços principais](classes-de-servicos-principais)
+- [Classes de teste unitário](classes-de-teste-unitario)
+- [Como baixar o projeto](como-baixar-o-projeto)
+- [Como iniciar o serviço](como-iniciar-o-serviço)
+- [Como realizar chamadas no serviço](como-realizar-chamadas-no-servico)
 
 ## Sobre
 
