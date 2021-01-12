@@ -7,6 +7,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import password.validation.passwordValidation.service.impl.PasswordValidationServiceImpl;
 
+/**
+ * Controller class for method to password validation
+ * @author leonardo.p.fernandes
+ */
+
 @RestController
 @CrossOrigin(origins = "*")
 @RequestMapping

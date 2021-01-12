@@ -10,6 +10,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import password.validation.passwordValidation.service.impl.PasswordValidationServiceImpl;
 import password.validation.passwordValidation.util.PasswordValidationMockBuilder;
 
+/**
+ * Main classe
+ * @author leonardo.p.fernandes
+ */
+
 @RunWith(MockitoJUnitRunner.class)
 @SpringBootTest
 public class PasswordValidationServiceImplTest {

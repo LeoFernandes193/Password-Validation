@@ -20,6 +20,13 @@ public class PasswordValidationServiceImpl implements PasswordValidationService 
         this.pattern = Pattern.compile(VALID_CHARACTERS);
     }
 
+    /**
+     * Classe interface for to recive PasswordValidationServiceImpl
+     * @param password
+     * @return Boolean
+     * @author Leonardo P. Fernandes
+     */
+
     @Override
     public Boolean validationPassword(String password){
         Optional.ofNullable(password).orElseThrow(() -> new RuntimeException("Password cannot be null"));
