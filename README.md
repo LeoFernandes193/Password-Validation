@@ -1,17 +1,6 @@
 # Password-Validation
 ---
 
-## Indice:
-- [Sobre](#-sobre)
-- [Criterios de validação](#-criterios-de-validação)
-- [Técnologias usadas](#-técnologias-usadas)
-- [Pré-Requisitos](#-pré-Requisitos)
-- [Classes de serviços principais](#-classes-de-serviços-principais)
-- [Classes de teste unitário](#-classes-de-teste-unitário)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Como iniciar o serviço](#-como-iniciar-o-serviço)
-- [Como realizar chamadas no serviço](#-como-realizar-chamadas-no-servico)
-
 ## Sobre
 
 A API Password-Validation tem como objetivo realizar validações de senhas de acordo com o seu critério, retornado **TRUE** quando ela for válida e **FALSE** quando ela for inválida.
